@@ -1,4 +1,4 @@
-import { User } from "../../models/user.interface";
+import { User } from "../../shared/models/user.interface";
 
 export enum AuthTypes {
   LOGIN = '[AUTH] Login',

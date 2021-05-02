@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, InputError, TextInput, UnderlinedButton } from '@crecemas/components';
 import './login.scss';
-import logo from '../../assets/logo/crecemas-logo.svg';
+import logo from '../../../../assets/logo/crecemas-logo.svg';
 import * as yup from 'yup';
 import { yupResolver } from '@hookform/resolvers/yup';
 import { useForm } from 'react-hook-form';
